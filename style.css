@@ -1,0 +1,42 @@
+:root {
+    --background-color: #11191f;
+    --secondary-color: #1b252e;
+}
+button{
+    border-radius: 10px;
+}
+
+nav {
+    display: flex;
+    position: f;
+    background-color: #1b252e;
+}
+
+ul>.navA {
+    padding-right: 10%;
+}
+
+.navBtn {
+    width: 200px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.navBtn:hover {
+    background-color: black;
+    color: white;
+}
+
+.logo {
+    padding-bottom: 30px;
+    padding-top: 10px;
+}
+
+.signBtn {
+    width: 200px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    margin-right: 50px;
+    position: absolute;
+    left: 5;
+}
